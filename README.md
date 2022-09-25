@@ -30,11 +30,13 @@ Exercício 1
 
 ```shell
 Exercício 1
-    A partir da hora do dia, crie um programa que informa a mensagem adequada (Bom dia, Boa tarde e Boa noite).
+    A partir da hora do dia, crie um programa que informa a mensagem adequada 
+(Bom dia, Boa tarde e Boa noite).
 ```
 
 ```shell
 Exercício 3
-    Crie um programa que calcule o valor final de um empréstimo, apartir do valor solicitado. Taxas e parcelas influenciam.
+    Crie um programa que calcule o valor final de um empréstimo, apartir do valor solicitado. Taxas 
+e parcelas influenciam.
     Defina arbitrariamente as faixas que influenciam nos valores.
 ```
