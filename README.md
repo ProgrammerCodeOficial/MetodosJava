@@ -23,19 +23,19 @@ Obs: Todos os métodos devem sempre ser definidos dentro de uma classe.
 ### 🤯 Exercícios
 
 ```shell
-Exercício 1
+Exercício 1 (Calculadora)
     Crie um programa para calcular as 4 operações básicas (soma, subtração, multiplicação e divisão).
     Sempre dois valores devem ser passados.
 ```
 
 ```shell
-Exercício 1
+Exercício 2 (Mensagem)
     A partir da hora do dia, crie um programa que informa a mensagem adequada 
 (Bom dia, Boa tarde e Boa noite).
 ```
 
 ```shell
-Exercício 3
+Exercício 3 (Empréstimo)
     Crie um programa que calcule o valor final de um empréstimo, apartir do valor solicitado. Taxas 
 e parcelas influenciam.
     Defina arbitrariamente as faixas que influenciam nos valores.
