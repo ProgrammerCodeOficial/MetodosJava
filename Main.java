@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Calculadora
-        System.out.println(" ========== Exercício Calculadora ==========");
+        System.out.println(" ========== Exercicio Calculadora ==========");
 
         // Classe.metodo(parametros) Obs: O static possibilita chamar um metodo apartir
         // de uma classe
@@ -16,14 +16,14 @@ public class Main {
         Calculadora.divisao(1.5, 4.5);
 
         // Mensagem
-        System.out.println(" ========== Exercício Mensagem ==========");
+        System.out.println(" ========== Exercicio Mensagem ==========");
         // classe.metodo(parametros)
         Mensagem.obterMensagem(9);
         Mensagem.obterMensagem(15);
         Mensagem.obterMensagem(2);
 
         // Emprestimo
-        System.out.println(" ========== Exercício Empréstimo ==========");
+        System.out.println(" ========== Exercicio Emprestimo ==========");
 
         // classe.metodo (parametro, metodo com parametro)
         Emprestimo.calcular(2000, Emprestimo.getDuasParcelas());
