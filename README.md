@@ -2,7 +2,8 @@
 
 
 ### 🤔 O que são os métodos em JAVA ?
-<p> Os métodos em JAVA são porções de códigos (sub-rotinas) que são disponibilizados
+```shell
+Os métodos em JAVA são porções de códigos (sub-rotinas) que são disponibilizados
 por uma classe.
     
 Este é executado quando é feita uma requisição, pois são responsáveis por definir e
@@ -11,14 +12,17 @@ realizar um determinado comportamento.
 Resumindo, métodos são as tarefas, ações que a classe pode executar.
     
 Obs: Todos os métodos devem sempre ser definidos dentro de uma classe.
-  </p>
+```
 
 ### ✔️ Boas práticas
-  - Nomes devem ser descritivos e curtos;
-  - Notação camelo (CamelCase);
-  - Deve possuir entre 80 e 120 linhas;
-  - Evitar lista de parâmetros longas;
-   - Visibilidades adequadas.
+
+```shell
+  - Nomes devem ser descritivos e curtos.
+  - Notação camelo (CamelCase).
+  - Deve possuir entre 80 e 120 linhas.
+  - Evitar lista de parâmetros longas.
+  - Visibilidades adequadas.
+```
 
 ### 🤯 Exercícios
 
