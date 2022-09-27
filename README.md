@@ -1,6 +1,6 @@
-<h1> 📚 Entendendo os Métodos Java </h1>
+<h1 align="center" > 📚 Entendendo os Métodos Java </h1>
 
-<p> Estudando e entendendo os métodos em Java. </p>
+<p align="center"> Estudando e entendendo os métodos em Java. </p>
 
 
 <h2> 🤔 O que são os métodos em JAVA ?</h2>
