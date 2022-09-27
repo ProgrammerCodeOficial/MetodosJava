@@ -1,11 +1,11 @@
-<h1 align="center" > 📚 Entendendo os Métodos Java </h1>
+<h1 align="center" > 📚 Entendendo Métodos em Java </h1>
 
 <p align="center"> Estudando e entendendo os métodos em Java. </p>
 
 
-<h2> 🤔 O que são os métodos em JAVA ?</h2>
+<h2> 🤔 O que são métodos em Java ?</h2>
 <p>
-Os métodos em JAVA são porções de códigos (sub-rotinas) disponibilizados por uma classe.
+Os métodos em Java são porções de códigos (sub-rotinas) disponibilizados por uma classe.
     
 Este é executado quando é feita uma requisição, pois são responsáveis por definir e realizar um 
 determinado comportamento.
@@ -59,9 +59,9 @@ e parcelas influenciam.
 <p>
 Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
     
-Se te ajudei de alguma forma, ficarei feliz em saber. 
+Se te ajudei de alguma forma, ficarei feliz em saber. 😜
     
-Caso você conheça alguém que se identidique com esse conteúdo, não deixe de compatilhar.
+Caso você conheça alguém que se identifique com esse conteúdo, não deixe de compartilhar.
 </br>
 
 > <h4>Se possível:</h4>
