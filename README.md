@@ -1,6 +1,6 @@
 <h1 align="center" > 📚 Entendendo Métodos em Java </h1>
 
-<p align="center"> Estudando e entendendo os métodos em Java. </p>
+<p align="center"> Estudando e entendendo os métodos em Java. </p></br>
 
 
 <h2> 🤔 O que são métodos em Java ?</h2>
@@ -13,7 +13,7 @@ determinado comportamento.
 Resumindo, métodos são as tarefas, ações que a classe pode executar.
     
 Obs: Todos os métodos devem sempre ser definidos dentro de uma classe.
-</p>
+</p></br>
 
 <h2> ✔️ Boas práticas</h2>
 
@@ -28,7 +28,7 @@ Obs: Todos os métodos devem sempre ser definidos dentro de uma classe.
   - Evitar lista de parâmetros longas.
     
   - Visibilidades adequadas.
-</p>
+</p></br>
 
 <h2>🤯 Exercícios</h2>
 
@@ -53,6 +53,7 @@ Obs: Todos os métodos devem sempre ser definidos dentro de uma classe.
 e parcelas influenciam.
     Defina arbitrariamente as faixas que influenciam nos valores.
 ```
+</br>
 
 <h2> 🤝 Contribuindo </h2>
 
@@ -62,7 +63,7 @@ Este repositório foi criado para fins de estudo. Fique a vontade para contribui
 Se te ajudei de alguma forma, ficarei feliz em saber. 😜
     
 Caso você conheça alguém que se identifique com esse conteúdo, não deixe de compartilhar.
-</br>
+</br></br>
 
 > <h4>Se possível:</h4>
 - ⭐️ Dê Star para o projeto
